@@ -10,27 +10,6 @@ I'm a **passionate Full Stack Software Developer** from Surabaya, Indonesia, wit
 - 💬 Ask me about **Full Stack Development**, **Mobile Apps**, **System Integration**, and **Database Management**
 - ⚡ Fun fact: I've helped debug and resolve 10+ cases for other teams and maintain 100% on-time QA submission rate
 
-## 💼 Professional Experience
-
-### 🏢 Wings Group (Apr 2025 - Present)
-**Full Stack Software Developer**
-- Leading a team of 4 developers on enterprise projects
-- Developed and enhanced 5+ diverse website and mobile applications
-- Handling cross-functional business processes (marketing, distribution, HR systems)
-- Maintaining 100% on-time submission rate for QA processes
-
-### 🛠️ Previous Roles
-- **IT Support** - Supporting 140+ sales offices, 1000+ users, 20+ programs
-- **HR Information System Intern** - Built HRIS systems and Android applications
-
-## 🎓 Education
-
-**Bachelor of Computer Science** | Petra Christian University (2020-2024)  
-GPA: 3.42/4.00
-- Led and managed 10+ projects across various platforms
-- Created 10+ interactive, clean and user-friendly UI designs
-- Participated in international company visits (LinkedIn, Festo, Markono)
-
 ## 🛠️ Tech Stack & Skills
 
 ### Programming Languages
@@ -72,6 +51,28 @@ GPA: 3.42/4.00
 - 🌏 **International Experience** - Company visits in Singapore
 - 📚 **Active in Education** - 20+ workshops and seminars participation
 - 🛠️ **Cross-functional Expertise** - Supporting 1000+ users across 140+ offices
+
+
+## 💼 Professional Experience
+
+### 🏢 Wings Group (Apr 2025 - Present)
+**Full Stack Software Developer**
+- Leading a team of 4 developers on enterprise projects
+- Developed and enhanced 5+ diverse website and mobile applications
+- Handling cross-functional business processes (marketing, distribution, HR systems)
+- Maintaining 100% on-time submission rate for QA processes
+
+### 🛠️ Previous Roles
+- **IT Support** - Supporting 140+ sales offices, 1000+ users, 20+ programs
+- **HR Information System Intern** - Built HRIS systems and Android applications
+
+## 🎓 Education
+
+**Bachelor of Computer Science** | Petra Christian University (2020-2024)  
+GPA: 3.42/4.00
+- Led and managed 10+ projects across various platforms
+- Created 10+ interactive, clean and user-friendly UI designs
+- Participated in international company visits (LinkedIn, Festo, Markono)
 
 ## 🌱 Currently Learning
 
