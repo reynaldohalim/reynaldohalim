@@ -61,7 +61,7 @@ GPA: 3.42/4.00
 
 ## 📊 GitHub Stats
 
-![Reynaldo's GitHub stats](https://github-readme-stats.vercel.app/api?username=reynaldohalim&show_icons=true&theme=radical)
+<!-- ![Reynaldo's GitHub stats] (https://github-readme-stats.vercel.app/api?username=reynaldohalim&show_icons=true&theme=radical) -->
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reynaldohalim&layout=compact&theme=radical)
 
