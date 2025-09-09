@@ -55,7 +55,7 @@ I'm a **passionate Full Stack Software Developer** from Surabaya, Indonesia, wit
 
 ## 💼 Professional Experience
 
-### 🏢 Wings Group (Apr 2025 - Present)
+### 🏢 Wings Group (Aug 2023 - Present)
 **Full Stack Software Developer**
 - Leading a team of 4 developers on enterprise projects
 - Developed and enhanced 5+ diverse website and mobile applications
